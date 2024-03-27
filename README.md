@@ -10,4 +10,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bouffee&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top languages" height="192px"  width="500px"/>
 
 <h2>Contact Me </h2>
-<img align="left" src="./free-icon-font-telegram-6422206.svg"> | <img src="./free-icon-font-vk-6422212.svg">
+<img align="left" src="./free-icon-font-telegram-6422206.svg" width="15" height="15"> | <img src="./free-icon-font-vk-6422212.svg" width="15" height="15">
