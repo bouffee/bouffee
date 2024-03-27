@@ -1,7 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Work+Sans&pause=1000&color=B8BFF7&random=true&width=435&lines=Hello!+My+name+is+Alisa+~" alt="Typing SVG" /></a>
 <h2>About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Mouse%20Face.png" alt="Mouse Face" width="25" height="25" /></h2>
 <ul> 
-<li>My name is Alisa :cherry_blossom:</li>
 <li>I work as integration engineer in Greenatom :brain:</li>
 <li>Currently studying for my bachelor degree in UNN :muscle:</li>
 <li>In my free time I like videogames, handicraft & knitting :eyes:</li>
