@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bouffee&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top languages" height="192px"  width="500px"/>
 
 # Contact Me
-[![website](./tg_logo.svg)](https://t.me/bouffee_2)
+[![website](./tg_logo.png)](https://t.me/bouffee_2)
 &nbsp;&nbsp;
 [![website](./vk_logo.png)](https://vk.com/bouffee)
 &nbsp;&nbsp;
