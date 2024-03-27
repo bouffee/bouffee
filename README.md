@@ -7,7 +7,7 @@
 </ul>
 
 <h2>My GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="25" height="25" /> </h2> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bouffee&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top languages" height="192px"  width="500px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bouffee&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top languages" height="192px"  width="500px"/>
 
 # Contact Me
 [![website](./free-icon-font-telegram-6422206.svg)](https://t.me/bouffee_2)
