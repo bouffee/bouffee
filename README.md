@@ -12,5 +12,5 @@
 # Contact Me
 [![website](./tg_logo.svg)](https://t.me/bouffee_2)
 &nbsp;&nbsp;
-[![website](./vk_logo.svg)](https://vk.com/bouffee)
+[![website](./vk_logo.png)](https://vk.com/bouffee)
 &nbsp;&nbsp;
