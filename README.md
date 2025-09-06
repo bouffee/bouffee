@@ -2,7 +2,7 @@
 ## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Mouse%20Face.png" alt="Mouse Face" width="25" height="25" />
 <ul> 
 <li>I work as integration engineer in Greenatom :brain:</li>
-<li>Currently studying for my bachelor degree in UNN :muscle:</li>
+<li>Bachelor degree in Applied Computer Science :school:</li>
 <li>In my free time I like videogames, handicraft & knitting :eyes:</li>
 </ul>
 
